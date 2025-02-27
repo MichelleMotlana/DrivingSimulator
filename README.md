@@ -1,4 +1,5 @@
 🚗 DrivingSimulator
+
 DrivingSimulator is a Java-based application that simulates the basic functionalities of a car. This project allows users to start the car, change gears, accelerate, brake, and exit the simulation.
 
 ✨ Features
@@ -10,15 +11,23 @@ Exit: Terminate the simulation.
 🛠️ Installation
 Clone the repository:
 sh
+Copy
+Edit
 git clone https://github.com/MichelleMotlana/DrivingSimulator.git
 Navigate to the project directory:
 sh
+Copy
+Edit
 cd DrivingSimulator
 Compile the Java source files:
 sh
+Copy
+Edit
 javac com/example/DrivingSimulator.java
 Run the application:
 sh
+Copy
+Edit
 java com.example.DrivingSimulator
 🚀 Usage
 Upon running the application, you will be presented with a menu that allows you to control the car. The following options are available:
